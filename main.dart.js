@@ -97035,7 +97035,7 @@ $S:0}
 A.Rb.prototype={
 F(a){var s=null,r=A.aYd(A.R(a).ok),q=A.aFq(B.ME,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)
 r=A.xa(B.Hy,B.ai,new A.lA(s,s,s,s,1,B.u2,new A.cn(A.h_(8),B.t)),s,q,B.pK,B.ti,r,s)
-return new A.Cu(A.e(["/login",new A.aj4(),"/main",new A.aj5()],t.N,t.Ab),"/login","Reminders App",r,!1,s)}}
+return new A.Cu(A.e(["/login",new A.aj4(),"/main",new A.aj5()],t.N,t.Ab),"/login","QCTask",r,!1,s)}}
 A.aj4.prototype={
 $1(a){return B.a_j},
 $S:640}
